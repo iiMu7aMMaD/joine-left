@@ -1,0 +1,21 @@
+{
+  "name": "data",
+  "version": "1.0.0",
+  "description": "discord app with organized system.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "nodemon": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvacord": "^5.0.7",
+    "discord-canvas": "^1.4.1",
+    "discord.js": "^12.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
